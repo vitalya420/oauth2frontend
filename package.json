@@ -1,0 +1,28 @@
+{
+  "name": "vueproj",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@vueuse/core": "^10.9.0",
+    "axios": "^1.6.7",
+    "bootstrap": "^5.3.3",
+    "node-sass": "^9.0.0",
+    "pinia": "^2.1.7",
+    "sass-loader": "^14.1.1",
+    "vue": "^3.4.15",
+    "vue-router": "4",
+    "vue-spinners": "^1.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "sass": "^1.71.1",
+    "vite": "^5.0.11"
+  }
+}
